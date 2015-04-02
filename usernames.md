@@ -7,4 +7,4 @@ Julin Maloof		jnmaloof		jnmaloof@ucdavis.edu
 
 Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
-
+Tyler Kent		tvkent			tvkent@ucdavis.edu
