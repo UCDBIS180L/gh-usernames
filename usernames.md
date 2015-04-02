@@ -8,3 +8,5 @@ Julin Maloof		jnmaloof		jnmaloof@ucdavis.edu
 Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
 Lewis Roa               benroars		lbroa@ucdavis.edu
+
+Scot Nicol              scnicol                 scnicol@ucdavis.edu
