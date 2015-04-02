@@ -7,4 +7,4 @@ Julin Maloof		jnmaloof		jnmaloof@ucdavis.edu
 
 Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
-
+Jenny Cade              jennycade               jennycade@gmail.com
