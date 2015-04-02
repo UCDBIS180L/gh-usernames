@@ -7,4 +7,7 @@ Julin Maloof		jnmaloof		jnmaloof@ucdavis.edu
 
 Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
+Kristina Bow 		kbow712			emailkbow@gmail.com					
+
+
 
