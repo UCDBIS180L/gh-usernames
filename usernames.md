@@ -45,3 +45,6 @@ Chadwick Ho		cjho3			cjho@ucdavis.edu
 Leslie Herrera		laherrera2015		laherrera516@gmail.com
 
 Robert Rider		rhrider			rhrider@ucdavis.edu
+
+Anna Aleykina 		aaleykin		anya.aleykina@gmail.com
+
