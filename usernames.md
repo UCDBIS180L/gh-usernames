@@ -50,3 +50,5 @@ Anna Aleykina 		aaleykin		anya.aleykina@gmail.com
 
 Sean Ng			snjng			snjng@ucdavis.edu
 
+Kevin Hu		khuhu			khuhu@ucdavis.edu
+
