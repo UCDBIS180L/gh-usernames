@@ -9,6 +9,7 @@ Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
 Patrick Mahle		pmahle			ptmahle@ucdavis.edu
 
+Kristina Bow 		kbow712			emailkbow@gmail.com					
 Lewis Roa               benroars		lbroa@ucdavis.edu
 
 Marina Becker		marinabecker	mrbecker@ucdavis.edu
