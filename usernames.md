@@ -41,3 +41,5 @@ Tyler Kent		tvkent			tvkent@ucdavis.edu
 Matt Denney		Bread0521		madenney@ucdavis.edu
 
 Chadwick Ho		cjho3			cjho@ucdavis.edu
+
+Leslie Herrera		laherrera2015		laherrera516@gmail.com
