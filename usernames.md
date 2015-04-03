@@ -27,3 +27,5 @@ Eric Wetzel		eawetzel		eawetzel@ucdavis.edu
 Evan Adams		eta2sec			emadams@ucdavis.edu
 
 Derek Conkle-Gutierrez  derekcg                 dvconklegutierrez@ucdavis.edu
+       
+Edward Sung		ehsung			ehsung@ucdavis.edu
