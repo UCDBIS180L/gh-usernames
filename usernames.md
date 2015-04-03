@@ -9,12 +9,13 @@ Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
 Patrick Mahle		pmahle			ptmahle@ucdavis.edu
 
-
 Lewis Roa               benroars		lbroa@ucdavis.edu
-
 
 Marina Becker		marinabecker	mrbecker@ucdavis.edu
 
 Calvin Mackey           CalvinMackey            csmackey@ucdavis.edu
 
 Roy Qu			Shirafune		rwqu@ucdavis.edu
+
+Derek Lin		drklin			drklin@ucdavis.edu
+
