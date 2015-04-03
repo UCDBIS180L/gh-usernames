@@ -22,3 +22,5 @@ Derek Lin		drklin			drklin@ucdavis.edu
 Pallavi Setty		psetty			pbsetty@ucdavis.edu
 
 Eric Wetzel		eawetzel		eawetzel@ucdavis.edu
+
+Evan Adams		eta2sec			emadams@ucdavis.edu
