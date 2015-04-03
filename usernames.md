@@ -52,3 +52,5 @@ Sean Ng			snjng			snjng@ucdavis.edu
 
 Kevin Hu		khuhu			khuhu@ucdavis.edu
 
+Jenny Cade              jennycade               jennycade@gmail.com
+
