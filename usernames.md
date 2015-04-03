@@ -9,6 +9,8 @@ Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
 Patrick Mahle		pmahle			ptmahle@ucdavis.edu
 
+Maria Chacon		michacon		michacons@ucdavis.edu
+
 Kristina Bow 		kbow712			emailkbow@gmail.com					
 Lewis Roa               benroars		lbroa@ucdavis.edu
 
