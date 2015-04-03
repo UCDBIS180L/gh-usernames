@@ -48,3 +48,5 @@ Robert Rider		rhrider			rhrider@ucdavis.edu
 
 Anna Aleykina 		aaleykin		anya.aleykina@gmail.com
 
+Sean Ng			snjng			snjng@ucdavis.edu
+
