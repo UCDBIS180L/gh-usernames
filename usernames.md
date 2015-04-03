@@ -19,3 +19,5 @@ Roy Qu			Shirafune		rwqu@ucdavis.edu
 
 Derek Lin		drklin			drklin@ucdavis.edu
 
+Pallavi Setty		psetty			pbsetty@ucdavis.edu
+
