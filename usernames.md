@@ -30,8 +30,5 @@
 "Gurkern Sufi"		sgurkern		sgurkern@ucdavis.edu
 "Khoa Nguyen"           kqnnguyen               kqnnguyen@ucdavis.edu
 "Nabeel Sami"         nabeelsami            nsami@ucdavis.edu
-
-
-=======
 "Daniel Ahrens"       Danielgahrens              dgahrens@ucdavis.edu
->>>>>>> a6092579b62ed04aa8ec713b08e5fb49a6c58f83
+"Anjali Kadakia"	anjalikadakia	aekadakia@gmail.com
