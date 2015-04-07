@@ -26,3 +26,6 @@
 "Kevin Hu"		    khuhu			khuhu@ucdavis.edu
 "Jenny Cade"         jennycade       jennycade@gmail.com
 "Samuel Deck"		samomics		sldeck@ucdavis.edu		
+"Gurkern Sufi"		sgurkern		sgurkern@ucdavis.edu
+
+
