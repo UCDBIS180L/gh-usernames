@@ -27,5 +27,6 @@
 "Jenny Cade"         jennycade       jennycade@gmail.com
 "Samuel Deck"		samomics		sldeck@ucdavis.edu		
 "Gurkern Sufi"		sgurkern		sgurkern@ucdavis.edu
+"Nabeel Sami"         nabeelsami            nsami@ucdavis.edu
 
 
