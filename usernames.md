@@ -1,4 +1,4 @@
-"Real Name"		    "GH Username"		email
+e"		    "GH Username"		email
 "Julin Maloof"		jnmaloof		jnmaloof@ucdavis.edu
 "Kristen Beck"		kbeck527		kbeck@ucdavis.edu
 "Patrick Mahle"		pmahle			ptmahle@ucdavis.edu
@@ -25,4 +25,4 @@
 "Sean Ng"			    snjng			snjng@ucdavis.edu
 "Kevin Hu"		    khuhu			khuhu@ucdavis.edu
 "Jenny Cade"         jennycade       jennycade@gmail.com
-
+"Daniel Ahrens"       Danielgahrens              dgahrens@ucdavis.edu
