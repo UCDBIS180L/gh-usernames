@@ -28,4 +28,6 @@
 "Samuel Deck"		samomics		sldeck@ucdavis.edu		
 "Gurkern Sufi"		sgurkern		sgurkern@ucdavis.edu
 "Khoa Nguyen"           kqnnguyen               kqnnguyen@ucdavis.edu
+"Nabeel Sami"         nabeelsami            nsami@ucdavis.edu
+
 
