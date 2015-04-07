@@ -25,7 +25,6 @@
 "Sean Ng"			    snjng			snjng@ucdavis.edu
 "Kevin Hu"		    khuhu			khuhu@ucdavis.edu
 "Jenny Cade"         jennycade       jennycade@gmail.com
-<<<<<<< HEAD
 "Samuel Deck"		samomics		sldeck@ucdavis.edu		
 "Gurkern Sufi"		sgurkern		sgurkern@ucdavis.edu
 "Khoa Nguyen"           kqnnguyen               kqnnguyen@ucdavis.edu
