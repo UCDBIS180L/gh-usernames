@@ -9,4 +9,5 @@ Kristen Beck		kbeck527		kbeck@ucdavis.edu
 
 Lewis Roa               benroars		lbroa@ucdavis.edu
 
-Anjali Kadakia    anjalikadakia   aekadakia@gmail.com
+Anjali Kadakia	anjalikadakia	aekadakia@gmail.com
+
