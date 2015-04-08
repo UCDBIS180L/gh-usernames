@@ -32,3 +32,4 @@
 "Nabeel Sami"         nabeelsami            nsami@ucdavis.edu
 "Daniel Ahrens"       Danielgahrens              dgahrens@ucdavis.edu
 "Anjali Kadakia"	anjalikadakia	aekadakia@gmail.com
+"Scot Nicol"              scnicol                 scnicol@ucdavis.edu
