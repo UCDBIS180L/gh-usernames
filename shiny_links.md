@@ -8,5 +8,5 @@
 | Matt Denny             | Derek Lin              | Marina Becker  | Shiny_Matthew.Derek.Marina |
 | Eric Wetzel            | Evan Adams             | Calvin Mackey  | Shiny_Eric.Evan.Calvin     |
 | Scot Nicol             | Patrick Mahle          | Anjali Kadakia | Shiny_Scot.Patrick.Anjali  |
-| Sunny Cha              | Khoa Nguyen            | Andy Peng      | Shiny_Sunny.Khoa.Andy      |
+| Sunny Cha              | Khoa Nguyen            | Andy Peng      | Shiny_Sunny.Khoa.Andy      |https://xshx.shinyapps.io/Shiny_SunnyKhoaAndy/
 | Leslie Herrera         | Pallavi Setty          |                | Shiny_Leslie.Pallavi       |
