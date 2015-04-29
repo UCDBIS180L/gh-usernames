@@ -1,6 +1,6 @@
 | Student 1              | Student 2              | Student 3      | Repository                 | Link to Shiny App
 |------------------------|------------------------|----------------|----------------------------|----------------------------
-| Tyler Kent             | Gurkern Sufi           | Chadwick Ho    | Shiny_Tyler.Sufi.Chad      |
+| Tyler Kent             | Gurkern Sufi           | Chadwick Ho    | Shiny_Tyler.Sufi.Chad      |https://tvkent.shinyapps.io/shiny/
 | Samuel Deck            | Ed Sung                | Nabeel Sami    | Shiny_Sam.Ed.Nabeel      |  https://seedplots.shinyapps.io/Assignment4App/
 | Derek Conkle-Gutierrez | Maria I Chacon Sanchez | Kevin Hu       | Shiny_Derek.Maria.Kevin    | https://derek-maria-kevin.shinyapps.io/Shiny_Derek_Maria_Kevin/ 
 | Anna Aleykina          | Kristina Bow           | Robert Rider   | Shiny_Anna.Kristina.Bobby  |https://rhrider.shinyapps.io/ShinyApp/
