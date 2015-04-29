@@ -3,7 +3,7 @@
 | Tyler Kent             | Gurkern Sufi           | Chadwick Ho    | Shiny_Tyler.Sufi.Chad      |
 | Samuel Deck            | Ed Sung                | Nabeel Sami    | Shiny_Sam.Ed.Nabeel      |  https://seedplots.shinyapps.io/Assignment4App/
 | Derek Conkle-Gutierrez | Maria I Chacon Sanchez | Kevin Hu       | Shiny_Derek.Maria.Kevin    | https://derek-maria-kevin.shinyapps.io/Shiny_Derek_Maria_Kevin/ 
-| Anna Aleykina          | Kristina Bow           | Robert Rider   | Shiny_Anna.Kristina.Bobby  |
+| Anna Aleykina          | Kristina Bow           | Robert Rider   | Shiny_Anna.Kristina.Bobby  |https://rhrider.shinyapps.io/ShinyApp/
 | Lewis Roa              | Jenny Cade             | Daniel Ahrens  | Shiny_Lewis.Jenny.Daniel   |
 | Matt Denny             | Derek Lin              | Marina Becker  | Shiny_Matthew.Derek.Marina |
 | Eric Wetzel            | Evan Adams             | Calvin Mackey  | Shiny_Eric.Evan.Calvin     |
