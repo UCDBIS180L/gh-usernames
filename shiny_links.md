@@ -9,4 +9,4 @@
 | Eric Wetzel            | Evan Adams             | Calvin Mackey  | Shiny_Eric.Evan.Calvin     |
 | Scot Nicol             | Patrick Mahle          | Anjali Kadakia | Shiny_Scot.Patrick.Anjali  |
 | Sunny Cha              | Khoa Nguyen            | Andy Peng      | Shiny_Sunny.Khoa.Andy      |https://xshx.shinyapps.io/Shiny_SunnyKhoaAndy/
-| Leslie Herrera         | Pallavi Setty          |                | Shiny_Leslie.Pallavi       |
+| Leslie Herrera         | Pallavi Setty          |                | Shiny_Leslie.Pallavi       |http://lesliepallavibis180l.shinyapps.io/ShinyLesliePallavi
