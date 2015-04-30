@@ -11,4 +11,4 @@
 | Eric Wetzel            | Evan Adams             | Calvin Mackey  | Shiny_Eric.Evan.Calvin     |https://bis180lshiny-eric-evan-calvin.shinyapps.io/Rice-SNPs-Eric-Evan-Calvin
 | Scot Nicol             | Patrick Mahle          | Anjali Kadakia | Shiny_Scot.Patrick.Anjali  | https://scot-patrick-anjali.shinyapps.io/theapp/
 | Sunny Cha              | Khoa Nguyen            | Andy Peng      | Shiny_Sunny.Khoa.Andy      |https://xshx.shinyapps.io/Shiny_SunnyKhoaAndy/
-| Leslie Herrera         | Pallavi Setty          |                | Shiny_Leslie.Pallavi       |http://lesliepallavibis180l.shinyapps.io/ShinyLesliePallavi
+| Leslie Herrera         | Pallavi Setty          |                | Shiny_Leslie.Pallavi       |https://lesliepallavibis180l.shinyapps.io/temp2/
