@@ -4,14 +4,15 @@
 date "+%A"
 ```
 # Exercise 2
-**What happens if you type echo mycolor? Do you get something different without the $? In general what does the echo command do and why does its behavior depend on the $?**\
+**What happens if you type echo mycolor? Do you get something different without the $?\
+In general what does the echo command do and why does its behavior depend on the $?**\
 If I type `echo mycolor` I get `mycolor` as the output.\
 If I type `echo $mycolor` I get `blue` as the output.\
-In general the `echo` command just returns whatever was the input. It changes depending on `$` because it indicates a user variable.\
+In general the `echo` command just returns whatever was the input. It changes depending on `$` because it indicates a user variable.
 
 # Exercise 3
 **Your instance’s main file system is located at /dev/sda1. Using what you know about Unix commands and the df function, print out how much free space your instance has available in a human-readable format.**\
-Using `df /dev/sda1 -h' it looks like there's 59 gigs of free storage.\
+Using `df /dev/sda1 -h' it looks like there's 59 gigs of free storage.
 
 # Exercise 4
 **The file ~/data/A.thaliana/Araport11_genes.201606.pep.fasta.gz contains all of the predicted protein sequences from genes in the Arabidopsis genome. Using the commands you have learned so far, write a command or set of commands to display the name of the last protein in the file. In your answer include both the commands that you used (formatted as a code block) and the output from those commands.**\
