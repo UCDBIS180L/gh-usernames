@@ -105,5 +105,9 @@ rm -r [directory]
 + cloning a repo
   + `git clone [ssh url]`
 
++ git merge [branchname]
+  + merge cuttent branch into [branchname]
 
-
++ auth 
+  + git config --global user.username "rhpineda"
+  + git config --global user.email "rhpineda@ucdavis.edu"
